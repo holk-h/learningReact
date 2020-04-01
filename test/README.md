@@ -1,4 +1,4 @@
-##This proj is a button test,it includes 6 different type of buttons,mainly learn the props and the components in the react.
+## This proj is a button test,it includes 6 different type of buttons,mainly learn the props and the components in the react.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
