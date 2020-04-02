@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+// eslint-disable-next-line no-unused-vars
 import Button from "./Button";
 import Gradient from "./Gradient/gradient-index";
 

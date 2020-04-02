@@ -44,7 +44,8 @@ export default function Gradient() {
                     onChange={handleInputChange}
                 />
             </div>
-            <button className={styles.button1} onClick={handleClick}>重置为默认</button>
+            <Button className={styles.button1}
+                    oncl1ck={handleClick}>重置为默认</Button>
             <Button>默认按钮</Button>
             <Button color="red">红色按钮</Button>
             <Button color="black">黑色按钮</Button>
